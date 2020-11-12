@@ -3,11 +3,8 @@
 
 
 ## 题目要求
-![在这里插入图片描述](https://img-blog.csdnimg.cn/img_convert/cc9eed247207b457f18ed75b86c181cb.png)
 
-## 样例图片
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201112160532571.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xlb3dhaGFoYQ==,size_16,color_FFFFFF,t_70#pic_center)
-
+以递归方式建立表达式二叉树结构，再分别输出表达式前序、中序、后序遍历结果，最后计算表达式的结果
 
 ## 说明
 输入带有括号的表达式，括号必须是英文状态下输入的
